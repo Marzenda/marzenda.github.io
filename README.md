@@ -7,8 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Irfan Marzenda Personal Website</title>
 
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
     <nav style="text-align: right;">
@@ -59,16 +57,11 @@
  <hr>
 </body>
 <footer style="text-align: center;">
-    <div class="container text-center">
-        <div class="row">
             <div class="co1-sm-12">
                 <p>
                     &copy; copyright 2021 | build with <i class="btn btn-danger"></i>
                     by Irfan_mrz 
                 </p>
             </div>
-
-        </div>
-    </div>
 </footer>
 </html>
